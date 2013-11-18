@@ -16,4 +16,4 @@ FFmpeg output:
     Hyper fast Audio and Video encoder
 
 
-Built for internal use by this custom [buildpack](https://github.com/integricho/heroku-buildpack-python-ffmpeg2.1-all-codecs).
+Built for internal use by this custom [buildpack](https://github.com/integricho/heroku-buildpack-python-ffmpeg2.1-with-codecs).
